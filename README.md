@@ -1,8 +1,7 @@
 <!-- HEADER -->
 
 <div align="center">
-  <h1>COVID19 Total Cases by January 05, 2022</h1>
-  <h1>Interactive Map Powered by Tableau</h1>
+  <h1>COVID19 Total Cases by January 05, 2022<br>Interactive Map Powered by Tableau</h1>
   <p><strong>developed by Mandy HP Nguyen</strong></p>
   <p>First published online worksheet with Tableau</p>
   <p>
